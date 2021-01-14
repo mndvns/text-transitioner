@@ -22,12 +22,6 @@ To make changes, run in a terminal
 yarn dev
 ```
 
-To test changes, run in another terminal
-
-```sh
-create-react-app
-```
-
 ## License
 
 MIT
