@@ -1,0 +1,54 @@
+html {
+  font-size: 12px;
+}
+
+body {
+  padding: 1rem;
+}
+
+body,
+input,
+label {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+main {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: .5rem;
+}
+
+label {
+  display: flex;
+  min-width: 6rem;
+  margin-right: .5rem;
+  justify-content: flex-end;
+}
+
+input {
+  display: flex;
+  flex: 1;
+  outline: 0;
+}
+
+button {
+  margin-left: 6.5rem;
+  margin-top: .5rem;
+}
+
+article {
+  color: white;
+  display: flex;
+}
+
+.parent {
+  background-color: grey;
+  padding: 1rem;
+}
